@@ -20,7 +20,7 @@ The AI-Based Calculator can interpret arithmetic expressions given in natural la
 - "Multiply 12 by 3."
 - "Subtract 5 from 10."
 
-This makes it user-friendly and easy to interact with, especially for those who prefer to type commands in plain English.
+This makes it user-friendly an easy to interact with, especially for those who prefer to type commands in plain English.
 
 ## Features
 - Supports basic arithmetic operations: addition, subtraction, multiplication, and division.
